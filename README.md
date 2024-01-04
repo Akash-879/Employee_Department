@@ -1,12 +1,22 @@
 "# Employee_Department" 
 
-first clone the repo
+//first clone the 
+
+
 git clone https://github.com/Akash-879/Employee_Department
 
-migrate the database
+
+
+//migrate the database
+
+
 php artisan migrate
 
-then on the server
+
+
+//then on the server
+
+
 php artisan serve
 
 
